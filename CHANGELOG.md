@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.102 (2026-07-30)
+
+
+### Bug Fixes
+
+* skip invalid Set-Cookie values instead of throwing ([#119](https://github.com/Kikobeats/simple-wappalyzer/issues/119)) ([b34b792](https://github.com/Kikobeats/simple-wappalyzer/commit/b34b79200fcaa78f57081c8ca6912dea5940018c))
+
 ### 1.1.101 (2026-07-20)
 
 ### 1.1.100 (2026-06-19)
